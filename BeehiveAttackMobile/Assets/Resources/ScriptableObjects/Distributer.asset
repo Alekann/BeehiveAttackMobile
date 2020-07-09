@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5868f1769ae8c647aaa1f41c937f817, type: 3}
+  m_Name: Distributer
+  m_EditorClassIdentifier: 
+  nectarControllerType: 2
+  maxNectar: 2000
+  startingNectar: 1500
+  lowIndicatorPercent: 30
+  canRegenerateNectar: 1
+  regenerationRate: 30
+  canLoseNectarOverTime: 0
+  lossRate: 30
+  receivers: []
+  senders: []
+  enableIndicator: 1
+  alwaysShowIndicator: 1
+  fillSpeedSeconds: 0.5
+  defaultColor: {r: 0.75456285, g: 0, b: 1, a: 1}
+  defaultColorLowNectar: {r: 0.53274137, g: 0, b: 0.7075472, a: 1}
+  increaseColor: {r: 0.75456285, g: 0, b: 1, a: 1}
+  increaseColorLowNectar: {r: 0.53274137, g: 0, b: 0.7075472, a: 1}
+  decreaseColor: {r: 0.75456285, g: 0, b: 1, a: 1}
+  decreaseColorLowNectar: {r: 0.53274137, g: 0, b: 0.7075472, a: 1}
