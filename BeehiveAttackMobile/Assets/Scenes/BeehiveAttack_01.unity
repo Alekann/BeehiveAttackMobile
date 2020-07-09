@@ -513,7 +513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1aea24511b13eb846adb3aa064cc4282, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enableOnScreenLog: 1
+  enableOnScreenLog: 0
   onScreenLogRef: {fileID: 983293473}
   debugTextPrefabRef: {fileID: 1080495690503232066, guid: 5b17a9e5830f5814b9dd850660ea953a,
     type: 3}
